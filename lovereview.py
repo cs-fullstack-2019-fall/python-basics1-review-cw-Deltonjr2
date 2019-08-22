@@ -30,6 +30,7 @@ if userInput==1:
         print ("1")
 elif userInput==2:
         print ("2")
-else  userInput==3:
-        print ("3")
+
+else:
+    print ("3")
 
