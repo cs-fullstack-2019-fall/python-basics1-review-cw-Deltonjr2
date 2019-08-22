@@ -26,11 +26,12 @@ print (userInput)
 #3
 userInput = input("Enter a number")
 while (userInput != 'q'):
-if userInput==1:
-        print ("1")
-elif userInput==2:
-        print ("2")
+	if userInput==1:
+	        print ("1")
+	elif userInput==2:
+	        print ("2")
 
-else:
-    print ("3")
+	else:
+	    print ("3")
+	    # you have to update the value in the condition
 
